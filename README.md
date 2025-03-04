@@ -1,16 +1,9 @@
-# habit_tracker
+# Habit Tracker!
 
-A new Flutter project.
+This fun and engaging Habit Tracker application was built using Flutter for iOS devices, allowing users to add and customise their habits, and log them daily in a calendar sheet. Users will be able to see which days they logged their habits, and can keep track of their habit completions through a seamless and user friendly UI/UX interface!
 
-## Getting Started
+## Intructions on how to run this app
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
